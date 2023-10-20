@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Holiday! Enjoying my life today!",
+      "data": "2023-10-18T10:42:19.354Z",
+      "isCompleted": false
+    },
+    {
+      "id": 5,
+      "title": "Mat a stranger girl today!",
+      "data": "2023-10-18T10:45:45.281Z",
+      "isCompleted": true
+    }
+  ]
+}
